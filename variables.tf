@@ -3,13 +3,13 @@
 variable "bucket_name" {
   description = "Name of the s3 bucket. Must be unique."
   type        = string
-  default = "23823823838"
+  default = "Naveen"
 }
 
 variable "bucket_name-02" {
   description = "Name of the s3 bucket. Must be unique."
   type        = string
-  default = "23823823"
+  default = "Anjali"
 }
 
 variable "region" {
